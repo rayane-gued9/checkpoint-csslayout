@@ -1,0 +1,63 @@
+.div1 {
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+}
+div ul li {
+    list-style: none;
+    display: inline-block;
+    margin:  10px;
+}
+.div2 {
+    display: flex;
+    color: #00b390;
+    flex-direction: column;
+    align-items: center;
+    font-size: 35px;
+}
+.div3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    font-size: 20px;
+}
+.div4 {
+    display: flex ;
+    justify-content: center;
+    margin: 40px;
+}
+.patient {
+    background-color: rgb(17, 244, 104);
+    color: white;
+    margin: 20px;
+    padding: 10px;
+
+}
+.doctor {
+    background-color: rgb(63, 52, 156);
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
+.clinics {
+    background-color: rgb(6, 0, 54);
+    color: white;
+    margin: 20px;
+    padding: 10px;
+}
+select{
+    width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0 2em 0 0;
+    outline: 0;
+    text-transform: none;
+    text-decoration: underline;
+    cursor: pointer;
+    color:white;
+}
+.div5 {
+    display: flex;
+justify-content: space-between;
+margin: 60px;}
